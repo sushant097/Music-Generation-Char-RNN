@@ -1,0 +1,29 @@
+### Try this are generated music  in https://abcjs.net/abcjs-editor.html    
+
+X: 328
+T:Swalling Jig
+% Nottingham Music Database
+S:Trad, arr Phil Rowe
+M:6/8
+K:D
+|:d|"C"ede G2G|"F"A2A "G7"G3|"C"ede G2G|"G7"A2B "C"c2:|
+d|"C"e2e cde|"G"d2d dBG|"C"cde "G"dcB|"C"c3 -A2::
+A|"C"g2e "G"d2B|"C"cde "G"d2d|"Am"cde "Dm"d2c|"G"BAG G2::
+A|"Em"B2B "Am"ABc|"Em"B2e ede|"Dm"f2a agf|"C"e3 c2g|"F"fef agf|"C"e3 c3|
+e2c gfe|"G"d2d def|"G"g2d edc|"G7"B2G "C"G3|
+"Am"A2A cBA|"G"GAB "Am"A3|"Dm"def "G7"edB|"C"c3 -c2:|
+P:B
+|:c/2d/2|"C"ede "G"d2B|"C"c2c "G"Bde|"C"c2c "G"Bdg|"C"c2e "G"ded|"
+
+
+X: 71
+T:Debbie's Jig
+% Nottingham Music Database
+S:Bob McQuillen Feb 1974, via Phil Rowe
+M:6/8
+K:G
+g|f/2a3/2d baf|"G7"faf def|"Em"g3 e2d|"C"cde c2A|
+"G"Bdd gdd|"C"efg "G"dBG|"C"cBc edc|"G"BdB "D"A2G|
+"C"gfg "F"agf|"C"ede gfg|"C"ede "G"gdB|"D"BAA A3::
+"G"G2B "C"c3|"G"ded "D7"cBA|"G"BGG GAB|"C"cdc "G"BGB|
+"D7"ABA AGF|"G"DGB dBG|"G"dBG "C"AGE|"G"D3 G2:|
