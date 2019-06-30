@@ -8,6 +8,7 @@ This code is written in Python 3, and it requires the [Keras](https://keras.io) 
 
 ### Description
 * 3 LSTM layer each with 256 units.
+* 3 Dropout layer with Probability=0.2 between each layer of LSTM
 * 1 Embedding layer top of LSTM to embedd the every character as dense neuron.
 * Stateful=True in LSTM to make long term dependency in each every character.
 * Dataset :: Nottingham Music Database
@@ -66,8 +67,7 @@ $ python train.py
 
 To sample the model:
 ```bash
-$ python sample.py 100
-# where 100 no of character to generate
+$ python sample.py
 ```
 
 To visualize the Loss and Accuracy, see:
@@ -104,7 +104,7 @@ A|"D"DFA d2A|"G"B3 B3|"D"ABA F2D|"A7"EDE CED|
 Above output is copy on [abcjs-editor](https://abcjs.net/abcjs-editor.html)  which run the char-ABC notation in music [MIDI](https://en.wikipedia.org/wiki/MIDI) format.
 
 The output seen as:
-![char-abcImage](image/abcjs editor-abcjs.net.png)
+![char-abcImage](https://github.com/sushant097/Music-Generation-Char-RNN/blob/master/image/abcjs%20editor-abcjs.net.png)
 
 
 [midi_music](image/o_tailh_wofish.midi) in dir `image/` 
@@ -112,5 +112,4 @@ The output seen as:
 
 ## Accuracy and Loss of Model
 
-![loss](image/char_rnn_music_loss.png) 
-![accuracy](image/char_rnn_music_accuracy.png)
+![loss](image/char_rnn_music_loss.png)![accuracy](image/char_rnn_music_accuracy.png)
