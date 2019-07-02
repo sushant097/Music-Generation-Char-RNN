@@ -2,6 +2,7 @@
 
 Multi-layer recurrent neural networks for training and sampling from texts, inspired by [karpathy/char-rnn](https://github.com/karpathy/char-rnn).
 
+Further go deep visit at [FollkRNN](https://folkrnn.org/) and try compose, to understand what is this project About.
 ### Requirements
 
 This code is written in Python 3, and it requires the [Keras](https://keras.io) deep learning library.
@@ -113,3 +114,10 @@ The output seen as:
 ## Accuracy and Loss of Model
 
 ![loss](image/char_rnn_music_loss.png)![accuracy](image/char_rnn_music_accuracy.png)
+
+## Suggestion To Go Further
+* Give a try of Multiple Instrument Music Generation See [](). This project only as single instrument Piano Music Generation.
+* Generate the [Tabla Music](https://soundcloud.com/trivedigaurav/char-rnn-composes-long-composition) which seems to difficult task to compose.
+
+
+<i>This is I learn from  [Applied AI course](https://www.appliedaicourse.com/)</i>
