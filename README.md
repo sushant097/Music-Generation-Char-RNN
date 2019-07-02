@@ -116,7 +116,7 @@ The output seen as:
 ![loss](image/char_rnn_music_loss.png)![accuracy](image/char_rnn_music_accuracy.png)
 
 ## Suggestion To Go Further
-* Give a try of Multiple Instrument Music Generation See [](). This project only as single instrument Piano Music Generation.
+* Give a try of Multiple Instrument Music Generation See [MultipleInstrument](https://www.youtube.com/watch?v=q-vsZ5s8PYs). This project only as single instrument Piano Music Generation.
 * Generate the [Tabla Music](https://soundcloud.com/trivedigaurav/char-rnn-composes-long-composition) which seems to difficult task to compose.
 
 
